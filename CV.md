@@ -51,8 +51,6 @@ __MIT, Cambridge__
 
 A list is also available [online](https://scholar.google.com/citations?user=JcQEUqsAAAAJ&hl=en&authuser=2)
 
-### Journals
-
 
 ## Talks
 
