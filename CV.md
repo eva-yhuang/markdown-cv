@@ -54,6 +54,11 @@ A list is also available [online](https://scholar.google.com/citations?user=JcQE
 ### Journals
 
 
+## Talks
+
+- `March 2019, Denver, CO` _Characterization of low-significance gravitational-wave compact binary sources_ - [APS April Meeting 2019](http://meetings.aps.org/Meeting/APR19/Session/B17.4)
+
+- `May 2019, Dartmouth, MA` _Systematics on Gravitational Waves from Neutron Star-Black Hole Mergers using Hybridized Post Newtonian-Numerical Relativity Waveforms_ - [22nd Eastern Gravity Meeting](http://cscvr1.umassd.edu/events/EGM2019/schedule.html)
 
 <!-- ### Footer
 
