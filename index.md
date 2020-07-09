@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Yiwen Huang's CV
 ---
-# Isaac Newton
+# Yiwen Huang
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
